@@ -2,7 +2,7 @@
 <?php
 $servername = "localhost"; // Database server
 $username = "root"; // Database user
-$password = ""; // Database password
+$password = "Barbi3world!"; // Database password
 $dbname = "CAT1"; // Database name
 
 // Create connection
